@@ -1,4 +1,4 @@
-# 202213827 투굴두루 Computer Vision SIFT-based Custom Panorama Stitching
+# SIFT-based custom panorama stitching (Computer Vision course project)
 # Code configuration based on teachers given test imgs
 
 import os
